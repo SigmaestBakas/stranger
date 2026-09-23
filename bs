@@ -1,0 +1,4 @@
+return {
+    { 1, "print something", "Description", "prints" },
+    { 1, "nothing yet", "Description", "" },
+}
