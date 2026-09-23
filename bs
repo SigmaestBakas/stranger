@@ -1,4 +1,4 @@
 return {
-    { 1, "print something", "Description", "prints" },
-    { 1, "nothing yet", "Description", "" },
+    { 1, "print something", "prints!!", "print('huh???')" },
+    { 1, "nothing yet", "", "warn('it has nothing')" },
 }
